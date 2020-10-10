@@ -20,11 +20,18 @@ interlock_foot.dxf
 ## Ottersauger V2
 Based on an EBM-Papst fan. (RL76/RLD76 Both work, you have to flip the Backboard)
 
+For 5mm MDF / Craftplex
+
 Files:
 
 ```
-For 5mm MDF / Craftplex
 All_Sauger.dxf or All_Sauger.svg
+Top
+Bottom
+Side x2
+Front
+Back
+Support
 
 ```
 
