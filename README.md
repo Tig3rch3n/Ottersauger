@@ -5,9 +5,9 @@ The Ottersauger and Otterfilter are two devices to evacuate and clean air, espec
 ![](/images/IMG_20180414_180506.jpg)
 ![](/images/IMG_20180414_201624.jpg)
 
-## Ottersauger
+## Ottersauger (Original)
 
-Based on an EBM-Papst fan. (need to find out which model it was)
+Based on an EBM-Papst fan. (D2E097 Series)
 
 Files:
 
@@ -15,6 +15,17 @@ Files:
 vacuum_case.svg
 interlock_frame.dxf
 interlock_foot.dxf
+```
+
+## Ottersauger V2
+Based on an EBM-Papst fan. (RL76/RLD76 Both work, you have to flip the Backboard)
+
+Files:
+
+```
+For 5mm MDF / Craftplex
+All_Sauger.dxf or All_Sauger.svg
+
 ```
 
 ## Otterfilter
